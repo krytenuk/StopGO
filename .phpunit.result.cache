@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Warning":6,"KrytenTest\\DbTest::testCheckRfidCardSucceeds":3,"KrytenTest\\DbTest::testCheckRfidCardFails":3},"times":{"Warning":0.001,"KrytenTest\\DbTest::testCheckRfidCardSucceeds":0.005,"KrytenTest\\DbTest::testCheckRfidCardFails":0}}
